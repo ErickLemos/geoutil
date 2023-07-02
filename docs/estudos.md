@@ -16,6 +16,12 @@
 
 [Apache SIS](https://sis.apache.org/index.html)
 
+[LocationTech](https://github.com/locationtech)
+
+[Spatial4J](https://github.com/locationtech/spatial4j)
+
+[GeoTools](https://geotools.org/)
+
 # Tecnoligas
 
 [OptaPlanner](https://www.optaplanner.org)
