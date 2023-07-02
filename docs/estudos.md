@@ -3,11 +3,23 @@
 # Sites
 
 [Uber Open Source Projects](https://uber.github.io)
+
 [Eclipse - OpenMobility](https://openmobility.eclipse.org)
+
+[Eclipse - MOSAIC](https://www.eclipse.org/mosaic)
+
+[Eclipse - SUMO](https://eclipse.dev/sumo)
+
 [OSRM](https://github.com/Project-OSRM/osrm-backend)
+
 [OsGeo](https://www.osgeo.org)
+
 [Valhalla](https://valhalla.github.io/valhalla)
-[OpenStreetMap](https://wiki.openstreetmap.org/wiki/Main_Page)[ - YOURS](https://wiki.openstreetmap.org/wiki/YOURS)
+
+[OpenStreetMap](https://wiki.openstreetmap.org/wiki/Main_Page)
+
+[OpenStreetMap - YOURS](https://wiki.openstreetmap.org/wiki/YOURS)
+
 [GraphHopper](https://www.graphhopper.com/open-source)
 
 # Bibliotecas
