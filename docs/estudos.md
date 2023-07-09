@@ -10,6 +10,12 @@
 
 [Valhalla](https://valhalla.github.io/valhalla)
 
+[AWS - Location](https://docs.aws.amazon.com/location/latest/developerguide/open-data.html)
+
+[Linux Foundation - OvertureMaps](https://overturemaps.org/download/)
+
+[DayLight Maps](https://daylightmap.org/)
+
 [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Main_Page)
 
 [GraphHopper](https://www.graphhopper.com/open-source)
