@@ -49,3 +49,5 @@
 # Cursos
 
 [Nvidia - Optimize Routing Problems](https://courses.nvidia.com/courses/course-v1:DLI+T-FX-05+V1/)
+
+[EDX - Constraint Programming](https://edx.org/course/constraint-programming)
