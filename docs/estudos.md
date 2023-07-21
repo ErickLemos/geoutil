@@ -45,3 +45,7 @@
 [Google OR-Tools](https://developers.google.com/optimization?hl=en)
 
 [Turf.js](https://github.com/Turfjs/turf)
+
+# Cursos
+
+[Nvidia - Optimize Routing Problems](https://courses.nvidia.com/courses/course-v1:DLI+T-FX-05+V1/)
