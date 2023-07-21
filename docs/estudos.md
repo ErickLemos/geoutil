@@ -28,6 +28,8 @@
 
 [GeoTools](https://geotools.org/)
 
+[Artigo - How to make a routing machine](https://dev.to/iedmrc/vehicle-routing-problems-and-how-to-solve-them-8h3)
+
 # Tecnoligas
 
 [OptaPlanner](https://www.optaplanner.org/download/download.html)
