@@ -28,7 +28,7 @@
 
 # Tecnoligas
 
-[OptaPlanner](https://www.optaplanner.org/download /download.html)
+[OptaPlanner](https://www.optaplanner.org/download/download.html)
 
 [Eclipse - MOSAIC](https://www.eclipse.org/mosaic)
 
