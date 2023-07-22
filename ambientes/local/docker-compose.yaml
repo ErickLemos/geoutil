@@ -23,3 +23,13 @@ services:
       - "8002:8002"
     volumes:
       - "$PWD/valhalla:/custom_files"
+
+  vroom:
+    container_name: "motor-vroom"
+    image: vroomvrp/vroom-docker:v1.13.0
+    ports:
+      - "3000:3000"
+    environment:
+      - VROOM_ROUTER=valhalla
+    volumes:
+      - "$PWD/vroom/conf:/conf"
