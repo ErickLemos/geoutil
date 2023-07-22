@@ -8,8 +8,6 @@
 
 [OsGeo](https://www.osgeo.org)
 
-[Valhalla](https://valhalla.github.io/valhalla)
-
 [AWS - Location](https://docs.aws.amazon.com/location/latest/developerguide/open-data.html)
 
 [Linux Foundation - OvertureMaps](https://overturemaps.org/download/)
@@ -19,8 +17,6 @@
 [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Main_Page)
 
 [GraphHopper](https://www.graphhopper.com/open-source)
-
-
 
 [LocationTech](https://github.com/locationtech)
 
@@ -49,6 +45,8 @@
 [Spatial4J](https://github.com/locationtech/spatial4j)
 
 [GeoTools](https://geotools.org/)
+
+[Valhalla](https://valhalla.github.io/valhalla)
 
 # Bibliotecas
 
