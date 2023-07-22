@@ -24,9 +24,7 @@
 
 [LocationTech](https://github.com/locationtech)
 
-[Spatial4J](https://github.com/locationtech/spatial4j)
 
-[GeoTools](https://geotools.org/)
 
 [Urban Computing Fundation](https://uc.foundation/)
 
@@ -48,6 +46,9 @@
 
 [VROOM](http://vroom-project.org/)
 
+[Spatial4J](https://github.com/locationtech/spatial4j)
+
+[GeoTools](https://geotools.org/)
 
 # Bibliotecas
 
