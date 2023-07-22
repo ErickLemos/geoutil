@@ -20,11 +20,9 @@
 
 [GraphHopper](https://www.graphhopper.com/open-source)
 
-[Apache SIS](https://sis.apache.org/index.html)
+
 
 [LocationTech](https://github.com/locationtech)
-
-
 
 [Urban Computing Fundation](https://uc.foundation/)
 
@@ -45,6 +43,8 @@
 [OSRM](https://project-osrm.org/)
 
 [VROOM](http://vroom-project.org/)
+
+[Apache SIS](https://sis.apache.org/index.html)
 
 [Spatial4J](https://github.com/locationtech/spatial4j)
 
