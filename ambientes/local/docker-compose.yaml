@@ -9,6 +9,7 @@ services:
       - "4566:4566"
       - "4510-4559:4510-4559"
     environment:
+      - SERVICES=dynamodb,s3
       - DEBUG=${DEBUG-}
       - DOCKER_HOST=unix:///var/run/docker.sock
     volumes:
