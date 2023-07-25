@@ -43,10 +43,10 @@ services:
       - /bin/sh
       - -c
       - |
-        osrm-extract -p /opt/car.lua /data/berlin-latest.osm.pbf
-        osrm-partition /data/berlin-latest.osrm
-        osrm-customize /data/berlin-latest.osrm
-        osrm-routed --algorithm mld /data/berlin-latest.osrm
+        osrm-extract -p /opt/car.lua /data/mapa.osm.pbf
+        osrm-partition /data/mapa.osrm
+        osrm-customize /data/mapa.osrm
+        osrm-routed --algorithm mld /data/mapa.osrm
     volumes:
       - "$PWD/osrm:/data"
 
