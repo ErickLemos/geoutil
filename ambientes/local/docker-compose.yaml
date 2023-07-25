@@ -33,3 +33,22 @@ services:
       - VROOM_ROUTER=valhalla
     volumes:
       - "$PWD/vroom/conf:/conf"
+
+  osrm:
+    container_name: "osrm"
+    image: osrm/osrm-backend
+    ports:
+      - "5000:5000"
+    command:
+      - /bin/sh
+      - -c
+      - |
+        osrm-extract -p /opt/car.lua /data/berlin-latest.osm.pbf
+        osrm-partition /data/berlin-latest.osrm
+        osrm-customize /data/berlin-latest.osrm
+        osrm-routed --algorithm mld /data/berlin-latest.osrm
+    volumes:
+      - "$PWD/osrm:/data"
+
+
+
